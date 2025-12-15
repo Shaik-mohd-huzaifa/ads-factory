@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+qdrant-client
+google-generativeai
+httpx
+aiofiles
+pillow
+python-dotenv
+numpy
+sqlalchemy
+aiosqlite
